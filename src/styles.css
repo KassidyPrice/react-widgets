@@ -1,0 +1,74 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.app {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+hr {
+  width: 90vw;
+  height: 1px;
+  background-color: black;
+  border: none;
+}
+
+.counter {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.greeting {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.showHide {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.fontSizer {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.textAligner {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.clock {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.colorChanger {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.colorPicker {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.sliderContainer {
+  display: flex;
+}
